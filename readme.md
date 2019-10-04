@@ -1,8 +1,8 @@
 # Robust Ensemble Clustering Using Probability Trajectories
 
 ## Citation
-This repository provides the MATLAB code for two ensemble clustering algorithms, namely, probability trajectory accumulation (PTA)
-and probability trajectory based graph partitioning (PTGP). If you find the code useful for your research,please cite the paper below.   
+This repository provides the MATLAB code for two ensemble clustering algorithms, namely, `probability trajectory accumulation (PTA)`
+and `probability trajectory based graph partitioning (PTGP)`. If you find the code useful for your research,please cite the paper below.   
 
 ```
 Dong Huang, Jian-Huang Lai, and Chang-Dong Wang. 
