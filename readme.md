@@ -35,7 +35,7 @@ bc_pool_KDD99.mat
 There are two variables in the MAT file for each dataset, namely, members and gt. The variable gt is the ground-truth label, which is an N-dimension vector. The variable members is an N x s matrix, where each column of it is a candidate base clustering.
 
 
-About the code:
+### About the code:
 
 The file entitled 'demo_PTA_and_PTGP.m' is the main file for running PTA and PTGP. You may change the following settings in order to test the performance of PTA and PTGP:
 
