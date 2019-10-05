@@ -6,7 +6,7 @@ and `probability trajectory based graph partitioning (PTGP)`. If you find the co
 
 ```
 Dong Huang, Jian-Huang Lai, and Chang-Dong Wang. 
-[Robust Ensemble Clustering Using Probability Trajectories](https://arxiv.org/pdf/1606.01160.pdf), 
+Robust Ensemble Clustering Using Probability Trajectories, 
 IEEE Transactions on Knowledge and Data Engineering, 2016, 28(5), pp.1312-1326.
 ```
 
